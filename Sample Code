@@ -1,0 +1,15 @@
+!pip install pyqrcode
+!pip install pypng
+import pyqrcode
+import png
+from pyqrcode import QRCode
+
+site="mailto:senthilkumaran1262@gmail.com"
+
+url_qr = pyqrcode.create(site)
+
+#create and save the svg file naming
+url_qr.svg("great.svg",scale=8)
+
+#Create and save the png file naming
+url_qr.png("great.png",scale=6)
