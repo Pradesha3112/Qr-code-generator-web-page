@@ -25,7 +25,8 @@ Check out the live application here: [QR Code Generator](https://monumental-wisp
 
 ## 📸 Screenshots
 
-![QR Code Generator Screenshot](screenshot.png)
+![Screenshot (69)](https://github.com/user-attachments/assets/636f5649-7686-47e4-9566-b445ab558a1c)
+
 
 ## 📂 Getting Started
 
